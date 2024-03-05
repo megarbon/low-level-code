@@ -1,4 +1,4 @@
-# C/Rust Fun Zone
+# Low Level Code
 
 Hey there! Welcome to this little corner of the coding universe where we're all about having a blast with C and Rust!
 
